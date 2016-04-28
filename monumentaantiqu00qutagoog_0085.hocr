@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./monumentaantiqu00qutagoog_0085.png"; bbox 0 0 652 1140; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 341 930 636 946">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 341 930 636 946">
+     <span class='ocr_line' id='line_1_1' title="bbox 341 930 636 946; baseline 0.01 -7"><span class='ocrx_word' id='word_1_1' title='bbox 341 937 345 939; x_wconf 94' lang='lat'>.</span> <span class='ocrx_word' id='word_1_2' title='bbox 382 930 606 946; x_wconf 46' lang='lat' dir='ltr'>„Mummmm-n--p-</span> <span class='ocrx_word' id='word_1_3' title='bbox 635 937 636 942; x_wconf 40' lang='lat'>1</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 124 934 609 1029">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 124 934 609 1029">
+     <span class='ocr_line' id='line_1_2' title="bbox 148 934 420 974; baseline -0.004 -5"><span class='ocrx_word' id='word_1_4' title='bbox 148 934 246 969; x_wconf 56' lang='lat' dir='ltr'>rariffimfln:</span> <span class='ocrx_word' id='word_1_5' title='bbox 258 937 420 974; x_wconf 40' lang='lat' dir='ltr'>fiogssss-§offidea</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 124 978 609 1006; baseline -0.002 -7"><span class='ocrx_word' id='word_1_6' title='bbox 124 982 170 1006; x_wconf 78' lang='lat'>(49)</span> <span class='ocrx_word' id='word_1_7' title='bbox 180 982 207 999; x_wconf 78' lang='lat' dir='ltr'>D=</span> <span class='ocrx_word' id='word_1_8' title='bbox 215 979 276 998; x_wconf 75' lang='lat' dir='ltr'>Kamea</span> <span class='ocrx_word' id='word_1_9' title='bbox 284 985 344 1004; x_wconf 76' lang='lat' dir='ltr'>parurn</span> <span class='ocrx_word' id='word_1_10' title='bbox 351 978 379 998; x_wconf 76' lang='lat' dir='ltr'>fibi</span> <span class='ocrx_word' id='word_1_11' title='bbox 387 979 447 998; x_wconf 71' lang='lat' dir='ltr'>constat</span> <span class='ocrx_word' id='word_1_12' title='bbox 456 979 527 1003; x_wconf 62' lang='lat' dir='ltr'>Noster,</span> <span class='ocrx_word' id='word_1_13' title='bbox 534 978 609 998; x_wconf 72' lang='lat' dir='ltr'>filocum&#39;</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 580 1017 608 1029; baseline 0 0"><span class='ocrx_word' id='word_1_14' title='bbox 580 1017 608 1029; x_wconf 78' lang='lat' dir='ltr'>nn·</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

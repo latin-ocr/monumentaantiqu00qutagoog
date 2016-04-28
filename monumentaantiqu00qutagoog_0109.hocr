@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./monumentaantiqu00qutagoog_0109.png"; bbox 0 0 652 1140; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 90 994 564 1026">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 90 994 564 1026">
+     <span class='ocr_line' id='line_1_1' title="bbox 90 994 564 1026; baseline 0.027 -13"><span class='ocrx_word' id='word_1_1' title='bbox 90 1010 92 1013; x_wconf 76' lang='grc'>,</span> <span class='ocrx_word' id='word_1_2' title='bbox 116 994 263 1016; x_wconf 70' lang='lat' dir='ltr'>voc-ntutAnabe·</span> <span class='ocrx_word' id='word_1_3' title='bbox 269 997 280 1018; x_wconf 79' lang='lat' dir='ltr'>i.</span> <span class='ocrx_word' id='word_1_4' title='bbox 285 1006 299 1021; x_wconf 69' lang='lat' dir='ltr'>e,</span> <span class='ocrx_word' id='word_1_5' title='bbox 310 999 564 1026; x_wconf 46' lang='lat' dir='ltr'>hones‚a3fimffitudis1eleonum</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
